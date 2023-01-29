@@ -1,2 +1,2 @@
 # CatFactsAPI-project
-Testing doing an fetc and catch function
+Test doing an fetch and catch function with Cat Facts Api
