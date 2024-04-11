@@ -1,5 +1,4 @@
-document.getElementById('fetch-fact').addEventListener('click', function(event) {
-    event.preventDefault(); 
+document.getElementById('fetch-fact').addEventListener('click', function() {
     fetch('https://catfact.ninja/fact')
         .then(response => response.json())
         .then(data => {
