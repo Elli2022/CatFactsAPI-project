@@ -32,8 +32,5 @@ The "Cat Facts Web App" is a dynamic and visually engaging web application desig
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Acknowledgments
 - **Cat Facts API:** This project uses the Cat Facts API to fetch random facts about cats, providing users with fun and educational content.
